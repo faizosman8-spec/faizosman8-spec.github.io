@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Osman Tech Hub</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Osman Tech Hub</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="blog/windows-tips.html">Windows Tips</a>
+            <a href="blog/linux-tips.html">Linux Tips</a>
+        </nav>
+    </header>
+
+    <main>
+        <section class="intro">
+            <h2>Hello! I’m Osman</h2>
+            <p>I’m an IT Admin, Linux Learner & Security Enthusiast. Here I share daily tips on Windows & Linux, plus tech tricks to simplify your workflow.</p>
+        </section>
+
+        <section class="latest-tips">
+            <h2>Latest Tips</h2>
+            <ul>
+                <li><a href="blog/daily-tip-template.html">Daily Linux Tip: Terminal Productivity</a></li>
+                <li><a href="blog/daily-tip-template.html">Daily Windows Tip: File Explorer Tricks</a></li>
+                <li><a href="blog/daily-tip-template.html">Daily Linux Tip: Managing Services</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 Osman Tech Hub | <a href="https://github.com/faizosman8-spec">GitHub</a></p>
+    </footer>
+</body>
+</html>
